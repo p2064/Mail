@@ -1,0 +1,15 @@
+<RCC>
+    <qresource prefix="/icon/main">
+        <file>back.png</file>
+        <file>change.png</file>
+        <file>checkAll.png</file>
+        <file>checkmark.png</file>
+        <file>eye.png</file>
+        <file>renew.png</file>
+        <file>trash.png</file>
+        <file>unlockAll.png</file>
+        <file>downArrow.svg</file>
+        <file>style.qss</file>
+        <file>envelope_icon.png</file>
+    </qresource>
+</RCC>

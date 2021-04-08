@@ -1,0 +1,104 @@
+QMainWindow
+{
+
+        background-color: #212427;
+        border-color: #000000;
+
+}
+QWidget#Admin
+{
+
+        background-color: #212427;
+        border-color: #000000;
+
+}
+QWidget#Registration
+{
+
+        background-color: #212427;
+        border-color: #000000;
+
+}
+
+
+QPushButton
+{
+        background-color: #556080;
+        border-radius: 4px;
+
+}
+QPushButton::menu-indicator
+{
+      image: none;
+
+}
+
+QPushButton::pressed
+{
+        background-color: #86aebc;
+        color: #FFFFFF;
+
+}
+QPushButton::checked
+{
+        background-color: #86aebc;
+        color: #FFFFFF;
+
+}
+
+
+
+
+QListView
+{
+        background-color: transparent;
+        color: #FFFFFF;
+        border: 1px solid;
+        border-radius: 2px;
+        font-weight: bold;
+
+}
+
+
+
+
+QListView::item
+{
+    padding: 5px;
+
+}
+
+
+QListView::item:selected
+{
+    border: 1px solid #1ea2ff;
+    border-radius: 2px;
+    color: #fff;
+}
+
+
+QListView::item:selected:!active
+{
+    background-color: #1ea2ff;
+    border-radius: 2px;
+    color: #fff;
+
+}
+
+
+QListView::item:selected:active
+{
+    background-color: #1ea2ff;
+    border-radius: 2px;
+    color: #fff;
+
+}
+
+
+QListView::item:hover
+{
+    background-color: #8b8b8b;
+        margin: 0px;
+    border-radius: 2px;
+
+}
